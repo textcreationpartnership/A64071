@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Signal dangers and deliverances both by land and sea comprehending a short account of the siege of Vienna, one of the most memorable in this last age; together with a description of a violent tempest on the Forth / in two small poems by the same hand.</title>
+            <author>Tyler, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64071</idno>
+            <idno type="STC">Wing T3559</idno>
+            <idno type="STC">ESTC R14474</idno>
+            <idno type="EEBO-CITATION">11174474</idno>
+            <idno type="OCLC">ocm 11174474</idno>
+            <idno type="VID">46524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1432:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Signal dangers and deliverances both by land and sea comprehending a short account of the siege of Vienna, one of the most memorable in this last age; together with a description of a violent tempest on the Forth / in two small poems by the same hand.</title>
+                  <author>Tyler, Alexander.</author>
+                  <author>Tyler, Alexander. Tempest between Burnt-Island and Leith in a boat.</author>
+               </titleStmt>
+               <extent>7, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Alexander Tyler.</note>
+                  <note>Place of pulication supplied by Wing.</note>
+                  <note>"The tempest between Burnt-Island and Leith in a boat, in November, 1681" has special t.p. and separate pagination.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vienna (Austria) --  History --  Siege, 1683 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:46524:1"/>
+                  <pb facs="tcp:46524:1"/>
+                  <p>SIGNAL DANGERS AND DELIVERANCES Both by <hi>LAND</hi> and
+<hi>SEA:</hi> Comprehending a ſhort Account of the Raiſing of the SIEGE OF VIENNA. One of the moſt Memorable in this laſt Age.</p>
+                  <p>TOGETHER With a Deſcription of a Violent <hi>TEMPEST</hi> on the <hi>FORTH.</hi>
+                  </p>
+                  <p>In two ſmall POEMS by the ſame Hand.</p>
+                  <p>Re-printed in the Year 1685.</p>
+               </div>
+            </front>
+            <body>
+               <div n="Siege of Vienna" type="poem">
+                  <pb facs="tcp:46524:2"/>
+                  <pb n="3" facs="tcp:46524:2"/>
+                  <head>THE <hi>SIEGE</hi> and <hi>BATTEL</hi> OF VIENNA, BEING A ſhort Deſcription of the SALLYS of the DE<g ref="char:EOLhyphen"/>FENDANTS, the Breaking up of the SIEGE; The ROUT of the VIZIER, and the whole OTTOMAN ARMY: By the Prodigious, and Proſperous VALOUR, of the Great, and Glorious KING of POLAND: (well worthy being GENERAL of the Forces, of all CHRISTENDOM, againſt theſe Infidels,) upon the 12. day of September, 1683.</head>
+                  <opener>To the Tone of <hi>Armida.</hi>
+                  </opener>
+                  <lg>
+                     <head>I.</head>
+                     <l>BAſe <hi>Apostate Rebel, Count</hi> TEKLY by <hi>Name, PROTES<g ref="char:EOLhyphen"/>TANTS ſhame:</hi>
+                     </l>
+                     <l>All <hi>CHRISTENDOMS Scandal,</hi>
+                     </l>
+                     <l>To find his IMPERIAL <hi>Land-lord,</hi> new
+<hi>Work,</hi>
+                     </l>
+                     <l>
+                        <hi>Divorc'd</hi> all <hi>Religion,</hi> ſtricks
+<hi>match</hi> with the <hi>T<g ref="char:V">Ʋ</g>RK:</hi>
+                     </l>
+                     <l>Quits <hi>Croſs</hi> for a <hi>Creſcent;</hi> the
+<hi>Sun</hi> for the <hi>Moon;</hi>
+                     </l>
+                     <l>The <hi>Truth</hi> for a <hi>Turbant;</hi> takes
+<hi>Mecha</hi> for <hi>Rome.</hi>
+                     </l>
+                     <pb n="4" facs="tcp:46524:3"/>
+                     <l>Paunds his <hi>Grace,</hi> and his GOD, and each <hi>glorious thing,</hi>
+                     </l>
+                     <l>For the <hi>Nickname,</hi> and <hi>Noiſe</hi> of a
+<hi>Titular</hi> KING.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>
+                        <hi>Thrusts</hi> his <hi>Head,</hi> (in a <hi>dread</hi> of the EMPERORS <hi>harms,</hi>)</l>
+                     <l>In the <hi>Dev'ls</hi> own <hi>Boſom,</hi> an <hi>Infidels Arms;</hi>
+                     </l>
+                     <l>Whoſe <hi>two hundred thouſand,</hi> laid <hi>Siege</hi> to VIEN:</l>
+                     <l>Which <hi>nine Weeks</hi> was kept by <hi>fifteen thouſand men:</hi>
+                     </l>
+                     <l>This huge <hi>torrent</hi> of <hi>Turks,</hi> all briſtled with <hi>Steel,</hi>
+                     </l>
+                     <l>In <hi>maugre</hi> their <hi>numbers,</hi> brave
+<hi>Sallys</hi> did <hi>feel.</hi>
+                     </l>
+                     <l>For in all their <hi>Aſsaults,</hi> they <hi>found</hi> ſtill to their <hi>Coſts,</hi>
+                     </l>
+                     <l>Their <hi>Ma'met,</hi> unequal to our LORD <hi>of Hoſts.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>III.</head>
+                     <l>O're <hi>Bulwarks,</hi> and <hi>Rav'lins,</hi> and
+<hi>Ramparts,</hi> and <hi>Works,</hi>
+                     </l>
+                     <l>O're <hi>Ditches,</hi> and <hi>Trenches,</hi> and <hi>Turbants of Turks,</hi>
+                     </l>
+                     <l>O're <hi>Fields</hi> clad with <hi>Ir'n, Horſe</hi> glitt'ring with <hi>Steel,</hi>
+                     </l>
+                     <l>O're <hi>Cannons,</hi> and <hi>Bombos, Granados</hi> that
+<hi>reel:</hi>
+                     </l>
+                     <l>Throw <hi>Hailſhowrs</hi> of <hi>Bullets,</hi> and
+<hi>Tempeſts</hi> of <hi>Fire,</hi>
+                     </l>
+                     <l>Throw <hi>Mines</hi> and <hi>Scalados, Smoak, Sweat,</hi> and
+<hi>Deſire:</hi>
+                     </l>
+                     <l>Throw <hi>Dangers,</hi> and <hi>Deaths,</hi> thouſand
+<hi>Horrors,</hi> and <hi>Frays,</hi>
+                     </l>
+                     <l>Bold <hi>Hearts,</hi> make brave <hi>Hands,</hi> with ſharp
+<hi>Swords</hi> cut them <hi>Wayes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>IV</head>
+                     <l>Yet th' <hi>Valiant Defendants,</hi> with ſtout
+<hi>Staremberdg,</hi>
+                     </l>
+                     <l>Whoſe <hi>Merit ſurmounteth</hi> a <hi>Glory</hi> that's
+<hi>large,</hi>
+                     </l>
+                     <l>With <hi>Famine</hi> and <hi>Watching, Wounds, Haz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rds,</hi> and <hi>Toil;</hi>
+                     </l>
+                     <l>Each <hi>ſpent</hi> to <hi>ſhadow,</hi> puts ten
+<hi>Turks</hi> to <hi>Foil.</hi>
+                     </l>
+                     <l>Theſe <hi>Muſlems</hi> dread <hi>trying Angels</hi> at
+<hi>Death.</hi>
+                     </l>
+                     <l>Such <hi>ſeem'd</hi> theſe <hi>Ghoſts, meagr'd</hi> with
+<hi>cleanneſs</hi> of <hi>Teeth.</hi>
+                     </l>
+                     <l>All at point of being <hi>ſtarved,</hi> or
+<hi>ſlormed,</hi> or <hi>yeeld!</hi>
+                     </l>
+                     <l>Their <hi>Sign</hi> bids brave POLZKI, and <hi>Lorrain</hi> take <hi>Field.</hi>
+                     </l>
+                  </lg>
+                  <pb n="5" facs="tcp:46524:3"/>
+                  <lg>
+                     <head>V.</head>
+                     <l>
+                        <hi>Attacking</hi> the <hi>Viſiers Quarters,</hi> ſo hot!</l>
+                     <l>That he <hi>fled</hi> with his <hi>Horſe,</hi> and
+<hi>expoſ'd</hi> his <hi>Foot:</hi>
+                     </l>
+                     <l>When <hi>Starmberg</hi> the <hi>Tutelar Glory</hi> comes up,</l>
+                     <l>With ſome <hi>five thouſand Ghoſts</hi> yet
+<hi>alive</hi> of his <hi>Troop;</hi>
+                     </l>
+                     <l>In a <hi>trice,</hi> many <hi>thouſands</hi> of <hi>Turbants Dance</hi> rounds,</l>
+                     <l>And the <hi>Red Croſs</hi> is ſign'd on
+<hi>Mahometans</hi> Crowns.</l>
+                     <l>The <hi>Eagle</hi> and <hi>Oſtrich,</hi> bath both in one
+<hi>Flood,</hi>
+                     </l>
+                     <l>Huge <hi>Rivers,</hi> and <hi>Seas,</hi> of the <hi>Muſleman Blood.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>VI.</head>
+                     <l>The GLORY of <hi>Poland,</hi> had <hi>thrice</hi> ſeen before,</l>
+                     <l>His <hi>Victorious Shadow,</hi> in <hi>Ottoman Gore:</hi>
+                     </l>
+                     <l>A <hi>Mirror,</hi> wherein (if a wiſh, GOD grant
+<hi>mine</hi>)</l>
+                     <l>All CHRIST'NDOMS <hi>Monarchs,</hi> their <hi>Swords</hi> may ſee ſhine;</l>
+                     <l>Each <hi>Christian Blow,</hi> deals ſome one <hi>Turk</hi> a
+<hi>Death,</hi>
+                     </l>
+                     <l>And <hi>rids</hi> his <hi>black Soul</hi> of its rank
+<hi>Onion Breath.</hi>
+                     </l>
+                     <l>
+                        <hi>Dooms day</hi> which the <hi>Turks</hi> call a <hi>day of deceit,</hi>
+                     </l>
+                     <l>They now <hi>ſee</hi> and <hi>feel</hi> in their total
+<hi>defeat.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>VII.</head>
+                     <l>
+                        <hi>Heavens Tutelar</hi> ANGELS of Glory <hi>come down!</hi>
+                     </l>
+                     <l>But their dread <hi>noiſe</hi> of <hi>Drums,</hi> the
+<hi>Trumpets</hi> voice <hi>drown.</hi>
+                     </l>
+                     <l>Their ſhining <hi>Swords light'n.</hi> loud <hi>Cannons</hi> do <hi>roar</hi>
+                     </l>
+                     <l>And <hi>thunder</hi> the <hi>Turks,</hi> both <hi>behind</hi> and <hi>before!</hi>
+                     </l>
+                     <l>The dark <hi>Clouds</hi> of <hi>Smoak,</hi> and of
+<hi>Duſt</hi> doth ariſe!</l>
+                     <l>And thick <hi>Shawrs</hi> of <hi>Lead,</hi> dropping
+<hi>Blood</hi> blinds their <hi>Eyes:</hi>
+                     </l>
+                     <l>Huge <hi>flaſhes</hi> of <hi>Fire,</hi> a ſulphurous
+<hi>ſmell,</hi>
+                     </l>
+                     <l>Tell the <hi>Turks</hi> to their <hi>Noſes</hi> how
+<hi>near</hi> they're to <hi>Fell.</hi>
+                     </l>
+                  </lg>
+                  <pb n="6" facs="tcp:46524:4"/>
+                  <lg>
+                     <head>VIII.</head>
+                     <l>Proud <hi>Nighings</hi> of <hi>Horſes! ſad Rattlings</hi> of <hi>Arms,</hi>
+                     </l>
+                     <l>Croſs'd <hi>Banners</hi> diſplay'd, <hi>pierce</hi> their
+<hi>Souls</hi> with <hi>Alarms.</hi>
+                     </l>
+                     <l>Their <hi>Hearts, Hands,</hi> and <hi>Swords ſhake</hi> and
+<hi>tremble</hi> apace,</l>
+                     <l>Pale <hi>Fate Prints</hi> their <hi>Brows</hi> with
+<hi>confuſion</hi> of <hi>Face!</hi>
+                     </l>
+                     <l>The <hi>groans</hi> of the <hi>Dying,</hi> the <hi>falls</hi> of the <hi>Dead;</hi>
+                     </l>
+                     <l>Loud <hi>ſhouts</hi> of the <hi>Victors,</hi> wide
+<hi>Wounds</hi> guſhing <hi>Blood!</hi>
+                     </l>
+                     <l>The <hi>flights</hi> of the <hi>Coward!</hi> the
+<hi>preaſs</hi> of the <hi>Strong,</hi>
+                     </l>
+                     <l>Makes <hi>Death</hi> deal all <hi>ſhapes</hi> of
+<hi>Amazement,</hi> in <hi>throng!</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>IX.</head>
+                     <l>Theſe <hi>Turk ſtroying Angels, rend Heav'n</hi> with a
+<hi>ſhout,</hi>
+                     </l>
+                     <l>When the <hi>Ottoman Host</hi>'s all at once put to
+<hi>rout:</hi>
+                     </l>
+                     <l>Their <hi>Scimitars</hi> droop, and their <hi>Muſquets</hi> let fall!</l>
+                     <l>Quick <hi>Death</hi> leaves no <hi>reſpit</hi> to ſay their <hi>laſt
+<note n="*" place="margin">
+                              <hi>Alla,</hi> The Name of GOD beginning the <hi>Turkish</hi> Prayers.</note> All</hi> —</l>
+                     <l>While they <hi>ſtagger, fall, ſpraul,</hi> and they
+<hi>die</hi> by <hi>degrees</hi>
+                     </l>
+                     <l>By whole <hi>Regiments</hi> at once, of their <hi>Cheats</hi> old <hi>Diſeaſe.</hi>
+                     </l>
+                     <l>In vain to their <hi>Reſcue,</hi> their <hi>Prophets</hi> bid come:</l>
+                     <l>With their <hi>dying looks</hi> aim'd toward <hi>Mahomets Tomb.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>X.</head>
+                     <l>The ſtout <hi>King</hi> of <hi>Poland,</hi> with's wing-flying <hi>Horſe,</hi>
+                     </l>
+                     <l>Doth <hi>Charge fight,</hi> and <hi>Wheel,</hi> with a
+<hi>Whirlewinds force</hi>
+                     </l>
+                     <l>They <hi>Curvet,</hi> they <hi>Prance,</hi> and they
+<hi>Stamp</hi> in the quick</l>
+                     <l>The <hi>Mahometans Souls,</hi> throw the <hi>Earth</hi> to old
+<hi>Nick:</hi>
+                     </l>
+                     <l>And <hi>Starbergs</hi> bold <hi>Ghosts,</hi> ſtrow
+<hi>Fields, Posts</hi> and <hi>Trenches,</hi>
+                     </l>
+                     <l>With the <hi>Janizars Hides,</hi> and <hi>Timariots Paunches.</hi>
+                     </l>
+                     <l>They leap o're the <hi>Lines,</hi> and they <hi>skip</hi> o're the <hi>Ditches,</hi>
+                     </l>
+                     <l>And whip their <hi>revenge</hi> on the <hi>Turks</hi> naked
+<hi>Breeches.</hi>
+                     </l>
+                  </lg>
+                  <pb n="7" facs="tcp:46524:4"/>
+                  <lg>
+                     <head>XI.</head>
+                     <l>Duke <hi>Lorrain,</hi> Prince <hi>Waldeck,</hi> do many brave
+<hi>Feat,</hi>
+                     </l>
+                     <l>At the <hi>Baſt</hi> of the <hi>Court,</hi> and before the
+<hi>Scots Gate,</hi>
+                     </l>
+                     <l>
+                        <hi>Diſpatching</hi> with <hi>ſpeed,</hi> many
+<hi>thouſand blind Souls,</hi>
+                     </l>
+                     <l>To <hi>Ma'mets apartment</hi> in <hi>Hell,</hi> by vaſt
+<hi>Shoals:</hi>
+                     </l>
+                     <l>They <hi>trip</hi> to their <hi>Prophet</hi> the ſpeedier
+<hi>way,</hi>
+                     </l>
+                     <l>And <hi>tell</hi> him for <hi>News!</hi> its the CHRISTIANS DAY.</l>
+                     <l>
+                        <hi>Camp, Cannon, Tents, Treaſure's</hi> their
+<hi>Valors</hi> juſt <hi>Prey,</hi>
+                     </l>
+                     <l>A <hi>Plague on</hi> baſe TECKLEY! may both the SIDES ſay.</l>
+                  </lg>
+                  <lg>
+                     <head>XII.</head>
+                     <l>All CHRISTENDOMS Triumph, the <hi>Walls</hi> of
+<hi>Vien,</hi>
+                     </l>
+                     <l>Sound this GLORY of KINGS, that <hi>Wonder</hi> of
+<hi>Men;</hi>
+                     </l>
+                     <l>
+                        <hi>Fame, Proweſs,</hi> and <hi>Trophees,</hi> loud
+<hi>Praiſe,</hi> and raiſ'd <hi>Sorgs,</hi>
+                     </l>
+                     <l>To <hi>Polands</hi> great PRINCE, and brave <hi>Starberg</hi> belongs.</l>
+                     <l>Home <hi>Vizier!</hi> and tell thy proud <hi>Sultans</hi> rude Boaſts,</l>
+                     <l>And <hi>Blaſphemies</hi> heard by the LORD GOD <hi>of Hoſts.</hi>
+                     </l>
+                     <l>To whom our <hi>Souls offer the Calves of our Lips,</hi>
+                     </l>
+                     <l>That our <hi>Sun</hi> ſhines in GLORY; their <hi>Moon</hi>'s in ECCLIPSE.</l>
+                  </lg>
+                  <lg>
+                     <head>XIII.</head>
+                     <l>If <hi>Chriſtendoms Monarchs,</hi> would <hi>ruine</hi> the
+<hi>Turk?</hi>
+                     </l>
+                     <l>Their <hi>ten thouſand</hi> a <hi>piece,</hi> might
+<hi>do</hi> all the <hi>great work:</hi>
+                     </l>
+                     <l>And of each <hi>leſſer</hi> PRINCE, <hi>Republick, Hans-Towns,</hi>
+                     </l>
+                     <l>Ten <hi>Collours</hi> of <hi>Foot,</hi> with ten
+<hi>Troops</hi> of <hi>Dragoons:</hi>
+                     </l>
+                     <l>Would <hi>theſe</hi> by next <hi>March, march</hi> at once to the <hi>Field,</hi>
+                     </l>
+                     <l>Glad <hi>Victims</hi> to GOD; <hi>Joy</hi> to <hi>Man</hi> it would <hi>yield:</hi>
+                     </l>
+                     <l>This <hi>Year,</hi> which our <hi>Aera</hi> computes
+<hi>eighty three!</hi>
+                     </l>
+                     <l>The laſt of the <hi>Turkiſh</hi> HIGIR A ſhould be.</l>
+                     <l>
+                        <hi>Deo, Regi, &amp; Eccleſiae.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:46524:5"/>
+                  <pb facs="tcp:46524:5"/>
+                  <p>THE TEMPEST, Between BURNT-ISLAND And LEITH, IN A BOAT Called, The BLESSING. In <hi>November,</hi> 1681.</p>
+                  <p>By the ſame Author.</p>
+                  <p>Re-printed in the Year 1685.</p>
+               </div>
+            </front>
+            <body>
+               <div n="storm" type="poem">
+                  <pb facs="tcp:46524:6"/>
+                  <pb n="3" facs="tcp:46524:6"/>
+                  <head>THE TEMPEST, BEING <hi>An ACCO<g ref="char:V">Ʋ</g>NT of a dangerous PAS<g ref="char:EOLhyphen"/>SAGE from</hi> BURNT-ISLAND <hi>to</hi> LEITH, <hi>in a BOAT called the</hi> BLESSING: <hi>in company of</hi> CLA<g ref="char:EOLhyphen"/>VERHOUSE, <hi>ſeveral</hi> GENTLE-WOMEN, MINISTERS, <hi>and a whole THRONG of common</hi> Paſſengers.</head>
+                  <head type="sub">Upon the 26. of <hi>November,</hi> 1681.</head>
+                  <lg>
+                     <l>
+                        <hi>I Parted</hi> from my <hi>Houſe,</hi> ſome
+<hi>Hours</hi> e're <hi>Day,</hi>
+                        <note place="margin">
+                           <hi>Nov.</hi> 25.</note>
+                     </l>
+                     <l>The riſing <hi>Sun,</hi> ſaw me on Banks of
+<hi>Tay;</hi>
+                     </l>
+                     <l>When lo! a ruſtling ſurly <hi>Weſt-wind</hi> blew,</l>
+                     <l>Whoſe ev'ry <hi>Sigh,</hi> white foaming <hi>Billows</hi> threw</l>
+                     <l>Like floating <hi>Fleeces,</hi> and theſe hoarſe
+<hi>Waves</hi> Roar,</l>
+                     <l>A <hi>Tempeſts Eccho; daſh't</hi> from <hi>Shoar</hi> to
+<hi>Shoar:</hi>
+                     </l>
+                     <l>No <hi>Boat</hi> dares <hi>paſs;</hi> and what <hi>dare</hi> I? but <hi>ſtay;</hi>
+                     </l>
+                     <l>For tho the <hi>Test</hi> bid <hi>Sail,</hi> the <hi>Wind</hi> ſaid <hi>nay.</hi>
+                     </l>
+                     <l>My forced <hi>Stay,</hi> and better <hi>Hap</hi> together,</l>
+                     <l>Bring me t' a <hi>Reverend Lord,</hi> and <hi>Holy Father:</hi>
+                     </l>
+                     <l>Who had no ſooner <hi>tender'd</hi> ſome the
+<hi>Teſt;</hi>
+                     </l>
+                     <pb n="4" facs="tcp:46524:7"/>
+                     <l>And me the leaſt of all GODS <hi>Servants</hi> bleſt:</l>
+                     <l>When ſtraight, a <hi>Silence</hi> followed in
+<hi>Heaven!</hi>
+                     </l>
+                     <l>The <hi>Waters</hi> wrinkled <hi>Viſage</hi> looked even</l>
+                     <l>Like poliſht <hi>Marble;</hi> or the ſmootheſt
+<hi>Mirror;</hi>
+                     </l>
+                     <l>My <hi>Thoughts</hi> burſt <hi>Silence,</hi> midſt a holy
+<hi>Terror.</hi>
+                     </l>
+                     <l>What ſacred <hi>Seer! Oaths! Benediction</hi>'s theſe!</l>
+                     <l>Whom <hi>Heav'n, Air, Winds,</hi> and <hi>Waves,</hi> and
+<hi>Seas</hi> obeys!</l>
+                  </lg>
+                  <lg>
+                     <l>NExt Morrows <hi>Bleſſing</hi> quite <hi>another</hi> was!
+<note place="margin">
+                           <hi>Nov.</hi> 26.</note>
+                     </l>
+                     <l>On FORTH, where many <hi>more</hi> and I did paſs:</l>
+                     <l>No ſooner ſet we <hi>Sail,</hi> on Board the
+<hi>Bleſſing,</hi>
+                     </l>
+                     <l>When <hi>Eolus</hi> ſet a <hi>Fowlers</hi> Cape on
+<hi>Fiſhing:</hi>
+                     </l>
+                     <l>And while we're ſcarce <hi>put forth</hi> without the
+<hi>Heads,</hi>
+                     </l>
+                     <l>
+                        <hi>Neptune</hi> ſpits o're our <hi>Maſt,</hi> his Watry
+<hi>Beads;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>SOoner then you can <hi>Wink;</hi> the furious
+<hi>Gale</hi>
+                     </l>
+                     <l>Like <hi>Shott unſeen,</hi> till <hi>Felt,</hi> doth us
+<hi>Aſſail:</hi>
+                     </l>
+                     <l>And what on <hi>Shore</hi> ſeems but a <hi>Guſt to them;</hi>
+                     </l>
+                     <l>'S to <hi>
+                           <g ref="char:V">Ʋ</g>s</hi> a <hi>Storm,</hi> might bear a
+<hi>Tempeſts</hi> name.</l>
+                     <l>We climb ſtrait <hi>Hills of Seas!</hi> as if we
+<hi>meant</hi>
+                     </l>
+                     <l>T'<hi>Invade</hi> the <hi>Heav'ns;</hi> and <hi>Scale</hi> the
+<hi>Firmament.</hi>
+                     </l>
+                     <l>And when wee're on the <hi>Waves</hi> ſteep <hi>farther Breaſt,</hi>
+                     </l>
+                     <l>Wee ſeem to ſeek the <hi>Center,</hi> for our
+<hi>Reſt.</hi>
+                     </l>
+                     <l>We <hi>skipp</hi> on <hi>Seas</hi> proud <hi>tops,</hi> as if we <hi>flew!</hi>
+                     </l>
+                     <l>Anon <hi>plung'd</hi> down, as if <hi>Hells-mouth</hi> we
+<hi>plew.</hi>
+                     </l>
+                     <l>A <hi>Wat'ry Duſt,</hi> the <hi>Foaming Billows</hi> raiſe,</l>
+                     <l>Puffing <hi>Rain</hi> upwards; mingling <hi>Clouds</hi> with
+<hi>Seas</hi>
+                     </l>
+                     <l>Each Monſtrous Mountain <hi>Wave,</hi> ſtill upward
+<hi>hyes.</hi>
+                     </l>
+                     <l>With Wat'ry <hi>Mouth,</hi> to <hi>kiſs</hi> and
+<hi>wett</hi> the <hi>Skyes.</hi>
+                     </l>
+                     <l>And <hi>underneath</hi> ſo deep a rouling <hi>Pit,</hi>
+                     </l>
+                     <l>That <hi>Hell</hi>'s a ſhallowneſs, <hi>compar'd</hi> to
+<hi>it.</hi>
+                     </l>
+                  </lg>
+                  <pb n="5" facs="tcp:46524:7"/>
+                  <lg>
+                     <l>THe <hi>Sea</hi> ſwells <hi>Babels</hi> up, as if <hi>ſhe meant</hi>
+                     </l>
+                     <l>To <hi>mingle</hi> with <hi>Seas</hi> above the
+<hi>Firmament;</hi>
+                     </l>
+                     <l>Then downward <hi>Rowls,</hi> as if <hi>ſhe'd</hi> two
+<hi>Deſires,</hi>
+                     </l>
+                     <l>To <hi>quench Heav'ns</hi> higheſt, <hi>drown Hells</hi> loweſt <hi>Fires;</hi>
+                     </l>
+                     <l>And, as if <hi>Heav'n, Earth, Water, Air</hi> and
+<hi>Spheres,</hi>
+                     </l>
+                     <l>Had (in a <hi>meddly</hi>) <hi>fall'n</hi> about our
+<hi>Ears!</hi>
+                     </l>
+                     <l>The <hi>
+                           <g ref="char:V">Ʋ</g>niverſe</hi> ſounds all one
+<hi>Cataract;</hi>
+                     </l>
+                     <l>And <hi>Nature</hi> ſeems to <hi>Chaos</hi> at the
+<hi>Crack.</hi>
+                     </l>
+                     <l>The great <hi>Turks Guns,</hi> would ſeem to us but
+<hi>Whiſpers,</hi>
+                     </l>
+                     <l>And loudeſt <hi>Thunders,</hi> to our <hi>Noiſe</hi> were
+<hi>Liſpers:</hi>
+                     </l>
+                     <l>
+                        <hi>Ratling</hi> of <hi>Arms, Drums, Trumpets, Horſes nyes,</hi>
+                     </l>
+                     <l>Loud <hi>Shouts</hi> of <hi>Armies vanquiſhd's Victors Cryes!</hi>
+                     </l>
+                     <l>Fir'd <hi>Ships,</hi> ſprung <hi>Mines,</hi> ſtorm'd
+<hi>Cities</hi> dreadful <hi>Voices!</hi>
+                     </l>
+                     <l>Might all <hi>ſtrike Dumb</hi> to our loud <hi>Roaring Noiſes!</hi>
+                     </l>
+                     <l>
+                        <hi>Thouſands</hi> our own <hi>Shrikes</hi> were, <hi>Sighs, Crys, Commands!</hi>
+                     </l>
+                     <l>
+                        <hi>Paſsers</hi> turn <hi>Pilots, Sailers</hi> ſilent ſtands.</l>
+                     <l>Some <hi>onward, backward,</hi> ſome to <hi>Seas;</hi> the
+<hi>Bark</hi>
+                     </l>
+                     <l>Thus <hi>floats,</hi> great <hi>Babel,</hi> in our little
+<hi>Ark;</hi>
+                     </l>
+                     <l>Which ſerves <hi>us</hi> now, for <hi>Houſe, Church, Fortreſs, Beer,</hi>
+                     </l>
+                     <l>For all the <hi>World,</hi> to <hi>us, ſwims ventur'd</hi> here.</l>
+                     <l>Now <hi>hopes</hi> of <hi>Life,</hi> and <hi>fears</hi> of
+<hi>Death</hi> take leave;</l>
+                     <l>And each proud <hi>Billow,</hi> bids a humble
+<hi>Grave.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>WHen? as if <hi>Earth ſigh'd all</hi> her <hi>Intrals</hi> out,</l>
+                     <l>At her laſt <hi>Gaſp</hi> meant to <hi>blow</hi> all
+<hi>Wind</hi> out!</l>
+                     <l>It <hi>blew,</hi> and <hi>blew,</hi> and <hi>roar'd,</hi> and
+<hi>rumbled</hi> higher,</l>
+                     <l>Then <hi>Heav'n</hi> with <hi>overbreathing</hi> were t'<hi>expire:</hi>
+                     </l>
+                     <l>
+                        <hi>Sooner</hi> than you <hi>read</hi> this, <hi>three Giant Billows</hi>
+                     </l>
+                     <l>Might <hi>Cradled</hi> hugeſt <hi>Whales,</hi> or their
+<hi>Snow Pillows.</hi>
+                     </l>
+                     <pb n="6" facs="tcp:46524:8"/>
+                     <l>Come on apace; <hi>each</hi> kept his <hi>Time,</hi> and
+<hi>Place,</hi>
+                     </l>
+                     <l>As if they meant to <hi>Drown us</hi> with a
+<hi>Grace.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>THe <hi>first,</hi> came <hi>tumbling</hi> on our <hi>Boats broad-ſide;</hi>
+                     </l>
+                     <l>And <hi>knock't</hi> us <hi>twice</hi> her <hi>breadth</hi> and more <hi>aſide;</hi>
+                     </l>
+                     <l>But <hi>vex't,</hi> that it had <hi>wrought's</hi> no more
+<hi>Diſgrace!</hi>
+                     </l>
+                     <l>It <hi>ſpues</hi> on <hi>us, ſpits</hi> in it's
+<hi>Followers</hi> face,</l>
+                     <l>Like <hi>hundred Leviathans,</hi> in a <hi>Plump,</hi>
+                     </l>
+                     <l>Next made's near <hi>founder</hi> with it's dreadful
+<hi>Thump;</hi>
+                     </l>
+                     <l>And we to <hi>pacify</hi> its angry <hi>Pride,</hi>
+                     </l>
+                     <l>
+                        <hi>Yield, Bow,</hi> and <hi>Fall;</hi> and <hi>ly</hi> upon our <hi>Side;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>THe <hi>third,</hi> as if ſome <hi>Sluce</hi> had
+<hi>drain'd</hi> the <hi>Deep:</hi>
+                     </l>
+                     <l>
+                        <hi>Rowls</hi> o're our <hi>Heads,</hi> laid
+<hi>prostrate</hi> at its <hi>Feet:</hi>
+                     </l>
+                     <l>A ſore <hi>Convulſion-fitt,</hi> now <hi>ſhakes</hi> our
+<hi>Ship!</hi>
+                     </l>
+                     <l>Our <hi>Mast</hi> an <hi>Ague!</hi> till the <hi>Sail</hi> down <hi>ſlip;</hi>
+                     </l>
+                     <l>A trembling <hi>Palſie</hi> ſeiz'd <hi>it!</hi> and our
+<hi>Hould,</hi>
+                     </l>
+                     <l>
+                        <hi>Drunk</hi> with the <hi>Waves,</hi> a Salt
+<hi>Hydropſie</hi> ſweld:</l>
+                     <l>Like half drown'd <hi>Mice!</hi> we're with <hi>ſalt Water</hi> choakt,</l>
+                     <l>A <hi>Sport</hi> to <hi>Winds</hi> and <hi>Waves,</hi> our
+<hi>Barge</hi> ſcarce <hi>rockt;</hi>
+                     </l>
+                     <l>It <hi>jogg'd</hi> a little, <hi>roſe</hi> at length by
+<hi>Stealth,</hi>
+                     </l>
+                     <l>Unfit to <hi>pledge</hi> the <hi>Seas</hi> another
+<hi>Health:</hi>
+                     </l>
+                     <l>Now one <hi>go down</hi> anew, without remeed</l>
+                     <l>Had <hi>quench'd</hi> our <hi>Drought;</hi> and
+<hi>drunk,</hi> and <hi>drown'd</hi> us <hi>Dead.</hi>
+                     </l>
+                     <l>We <hi>Hull</hi> a little, then with humbler
+<hi>Sail,</hi>
+                     </l>
+                     <l>'Twixt <hi>Life</hi> and <hi>Death</hi> we <hi>ſculk</hi> alongs the <hi>Gale:</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>WEll Sea-skill'd
+<note n="*" place="margin">The Skippers Name.</note>
+                        <hi>Dowglas,</hi> and his <hi>Sailers</hi> had</l>
+                     <l>No <hi>thoughts</hi> but <hi>Death,</hi> amidſt their
+<hi>Wat'ry Trade:</hi>
+                     </l>
+                  </lg>
+                  <pb n="7" facs="tcp:46524:8"/>
+                  <lg>
+                     <l>ANd <hi>we</hi> who <hi>Preach</hi> to <hi>all, Contempt</hi> of <hi>Breath,</hi>
+                     </l>
+                     <l>
+                        <hi>Tremble</hi> but to <hi>touch,</hi> the eaſieſt, ſofteſt <hi>Death!</hi>
+                     </l>
+                     <l>Unlike th' <hi>Apostles,</hi> we <hi>believed</hi> then,</l>
+                     <l>
+                        <hi>Fearing,</hi> Sea Monſters <hi>Mouths</hi> might
+<hi>Fiſh</hi> us <hi>Men;</hi>
+                     </l>
+                     <l>And <hi>Neptunes Tritons,</hi> ere we <hi>parted</hi> thence,</l>
+                     <l>Should <hi>proul's</hi> by <hi>Pole,</hi> and <hi>pick</hi> our <hi>Peter-pence.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>COurage</hi> is ſtill the ſame on <hi>Land,</hi> at
+<hi>Sea,</hi>
+                     </l>
+                     <l>
+                        <note n="*" place="margin">Claver<g ref="char:EOLhyphen"/>houſe.</note> 
+                        <hi>He</hi> who can boldly <hi>kill,</hi> dares bravely <hi>die:</hi>
+                     </l>
+                     <l>Yet he whoſe <hi>Ire</hi> hath <hi>ſmil'd</hi> on
+<hi>Seas</hi> of <hi>Blood,</hi>
+                     </l>
+                     <l>Looks <hi>pale</hi> on <hi>Water,</hi> in his cooleſt
+<hi>Mood.</hi>
+                     </l>
+                     <l>
+                        <hi>Souldiers</hi> ſtern <hi>Fire, abhorres</hi> the
+<hi>death</hi> of <hi>Slaves;</hi>
+                     </l>
+                     <l>It can't <hi>Reſist,</hi> nor <hi>Vengeance</hi> wreck on
+<hi>Waves.</hi>
+                     </l>
+                     <l>
+                        <hi>Mars</hi> crops his <hi>Fame,</hi> on <hi>Camps, Fields, Cities</hi> hie:</l>
+                     <l>But what's <hi>ten thouſand Swords</hi> againſt a
+<hi>Sea?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <note n="*" place="margin">Gentle<g ref="char:EOLhyphen"/>women.</note> 
+                        <hi>FEmales</hi> fall <hi>flat</hi> and <hi>prone;</hi> if true they ſay?</l>
+                     <l>When <hi>drown'd,</hi> their <hi>Corps</hi> are ever found this <hi>Way;</hi>
+                     </l>
+                     <l>They <hi>ly</hi> along on <hi>Hatches, Hoodwinkt Fac'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Afraid</hi> to <hi>die,</hi> in their own <hi>preſence plac'd.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>THus <hi>fall,</hi> ſo <hi>ly,</hi> the <hi>Horſes flat</hi> in <hi>Hould,</hi>
+                     </l>
+                     <l>Aloft their <hi>Backs, Pitch-Casks</hi> with <hi>Seas</hi> are
+<hi>rowld;</hi>
+                     </l>
+                     <l>
+                        <hi>Casks</hi> full and empty, <hi>troul, ſwim, juſtle, knocks,</hi>
+                     </l>
+                     <l>
+                        <hi>Daſht</hi> 'gainſt the <hi>Hatches ſides,</hi> like
+<hi>Ships</hi> on <hi>Rocks.</hi>
+                     </l>
+                     <l>
+                        <hi>Buckets</hi> and <hi>Pump,</hi> are ſtill
+<hi>employ'd</hi> in <hi>vain,</hi>
+                     </l>
+                     <l>
+                        <hi>Waves</hi> into <hi>Waves</hi> ſpu'd, <hi>we drink up</hi> again:</l>
+                     <l>A Land lock't <hi>Plaſh,</hi> ſtands <hi>priſon'd</hi> in our <hi>Hould;</hi>
+                     </l>
+                     <l>Which as we <hi>Dance,</hi> the <hi>Waves</hi> doth
+<hi>joul</hi> and <hi>joul</hi>
+                     </l>
+                     <pb n="8" facs="tcp:46524:9"/>
+                     <l>Our In-land <hi>Gulf,</hi> ſhews in <hi>Epitomie</hi>
+                     </l>
+                     <l>Both <hi>Map,</hi> and <hi>Iſlands</hi> of the
+<hi>Mid-land</hi> Sea.</l>
+                     <l>We ſlowly <hi>trail</hi> alongſt the <hi>Watry Hills,</hi>
+                     </l>
+                     <l>
+                        <hi>Clogg'd</hi> with a <hi>Pond,</hi> on <hi>Board,</hi> might ſted ſome <hi>Mills.</hi>
+                     </l>
+                     <l>The <hi>Sea</hi> bears <hi>us,</hi> and <hi>we</hi> bear up a
+<hi>Sea</hi>
+                     </l>
+                     <l>Of many <hi>Tunns,</hi> to <hi>Leiths Port, Custom free;</hi>
+                     </l>
+                     <l>We <hi>ſhake</hi> our <hi>Ears, Hats, Cloaths,</hi> and in a trice,</l>
+                     <l>We <hi>creep</hi> on <hi>Shore,</hi> like Water ducked
+<hi>Flies.</hi>
+                     </l>
+                     <l>That we ſcap't <hi>Monsters, Maws,</hi> and our laſt
+<hi>Fiſhing,</hi>
+                     </l>
+                     <l>GOD, by good <hi>Dowglas,</hi> gave us't with a BLESSING.</l>
+                  </lg>
+                  <closer>
+                     <hi>DEO, REGI,</hi> &amp; <hi>ECCLESIAE.</hi>
+                  </closer>
+                  <pb facs="tcp:46524:9"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
